@@ -1,0 +1,14 @@
+# ไฟล์ชั่วคราวของ Python
+__pycache__/
+*.py[cod]
+
+# สภาพแวดล้อมจำลอง (Virtual Environments)
+venv/
+env/
+
+# ไฟล์ระบบของ Mac/Windows
+.DS_Store
+Thumbs.db
+
+# ไฟล์ของ Jupyter Notebook (เผื่อมี)
+.ipynb_checkpoints/
