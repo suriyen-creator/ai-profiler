@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
+### 🚀 **Live Web App:** [Click here to try the Ultimate AI Profiler](https://ai-profiler-gbeoudxrkfkycxr3uxs9zc.streamlit.app/)
+
 An advanced, 6-dimensional profiling and assessment system designed to simulate the statistical analysis of crime scene data. Utilizing Machine Learning, this system evaluates the probability of case scenarios and potential suspect profiles based on historical homicide reports.
 
 ## 🌟 Key Features
@@ -20,11 +22,11 @@ The system processes victim demographics and crime scene details to predict 6 di
 * **Machine Learning:** scikit-learn (RandomForestClassifier)
 * **Data Processing:** Pandas, NumPy
 
-## 🚀 Local Setup & Installation
+## 💻 Local Setup & Installation
 
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/suriyen-creator/ai-profiler.git
+git clone [https://github.com/suriyen-creator/ai-profiler.git](https://github.com/suriyen-creator/ai-profiler.git)
 cd ai-profiler
 ````
 
@@ -53,6 +55,8 @@ This project was created strictly for educational purposes and learning in the f
 <br>
 
 # 🇹🇭 เวอร์ชันภาษาไทย (Thai Version)
+
+### 🚀 **ทดลองใช้งานจริง:** [คลิกที่นี่เพื่อเปิดเว็บแอปพลิเคชัน AI นักสืบ](https://www.google.com/url?sa=E&source=gmail&q=https://ai-profiler-gbeoudxrkfkycxr3uxs9zc.streamlit.app/)
 
 ## 🌟 ฟีเจอร์หลักของระบบ
 
