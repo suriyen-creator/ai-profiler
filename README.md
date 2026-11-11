@@ -2,9 +2,9 @@
 
 ## Screenshots
 
-![ai-profiler screenshot 1](/home/bestz/Projects/ai-profiler/screenshot/Screenshot_20261112_002951.png)
+<p align="center"><img src="screenshot/Screenshot_20261112_002951.png" alt="ai-profiler screenshot 1" width="100%"></p>
 
-![ai-profiler screenshot 2](/home/bestz/Projects/ai-profiler/screenshot/Screenshot_20261112_003039.png)
+<p align="center"><img src="screenshot/Screenshot_20261112_003039.png" alt="ai-profiler screenshot 2" width="100%"></p>
 
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
